@@ -1,0 +1,32 @@
+@media all and (max-width: 1000px) {
+	
+	.contents{
+		height: 700px;
+	}
+	.contents-item{
+		width: 50%;
+		margin-bottom: 50px;
+		color: black;
+	}
+	.nganu{
+		margin-left: 230px;
+	}
+	.contents2{
+		margin-top: 100px;
+		height: 1500px;
+	}
+	.contents-item2{
+		text-align: center;
+		margin-bottom: 2px;
+		margin-top: 2px;
+	}
+	.contents-item2{
+		width: 100%;
+	}
+	footer{
+		margin-top: 1000px;
+	}
+	.pilihan{
+		display: none;
+	}
+}
