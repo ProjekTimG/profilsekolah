@@ -30,3 +30,8 @@
 		display: none;
 	}
 }
+@media all and (max-width: 670px){
+	.contents{
+		height: 700px;
+	}
+}
